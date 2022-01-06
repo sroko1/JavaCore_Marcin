@@ -1,6 +1,6 @@
-package lightpackage;
+package lightpackage.Q11;
 
-import darkpakage.ACountryDebt;
+import darkpakage.Q11.ACountryDebt;
 
 public class LightWantsToAccess extends ACountryDebt {
 
